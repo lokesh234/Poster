@@ -1,0 +1,98 @@
+﻿LABEL,SUBLABEL,NAME,DEPT,IMAGE,X,Y
+Materials and Manufacturing,Additive Manufacturing,Danielle Cote,Mechanical Engineering,DanielleCote.png,10600,150
+Materials and Manufacturing,Additive Manufacturing,Sneha Narra,Mechanical Engineering,SnehaNarra.png,11200,150
+Health & Biotechnology,Biological Response Mechanisms & Detection,Anita Mattson,Biology & Biotechnology,AnitaMattson.png,2800,4000
+Health & Biotechnology,Biological Response Mechanisms & Detection,Tanja Dominko,Biology & Biotechnology,TanjaDominko.png,2800,3850
+Health & Biotechnology,Biological Response Mechanisms & Detection,Scarlet Shell,Biology & Biotechnology,ScarletShell.png,2800,3700
+Health & Biotechnology,Biological Response Mechanisms & Detection,Jeannine Coburn,Biomedical Engineering,JeannineCoburn.png,2800,3550
+Health & Biotechnology,Biological Response Mechanisms & Detection,Susan Zhou,Chemical Engineering,SusanZhou.png,4700,3750
+Health & Biotechnology,Biological Response Mechanisms & Detection,Marsha Rolle,Biomedical Engineering,MarshaRolle.png,3400,3850
+Health & Biotechnology,Biological Response Mechanisms & Detection,Eric Young,Chemical Engineering,EricYoung.png,4100,3600
+Health & Biotechnology,Biological Response Mechanisms & Detection,Reeta Rao,Biology & Biotechnology,ReetaRao.png,3400,3550
+Health & Biotechnology,Biological Response Mechanisms & Detection,Catherine Whittington,Biomedical Engineering,CatherineWhittington.png,3400,3700
+Health & Biotechnology,Biological Response Mechanisms & Detection,Elizabeth Stewart,Chemical Engineering,ElizabethStewart.png,4100,3750
+Health & Biotechnology,Biological Response Mechanisms & Detection,Carissa Olsen,Chemical Engineering,CarissaOlsen.png,4100,3900
+Health & Biotechnology,Biological Response Mechanisms & Detection,Patricia Musacchio,Chemical Engineering,PatriciaMusacchio.png,4700,3600
+Materials and Manufacturing,Energy,Mike Timko,Chemical Engineering,MikeTimko.png,4100,550
+Materials and Manufacturing,Energy,Pratap Rao ,Mechanical Engineering,PratapRao.png,10600,550
+Materials and Manufacturing,Energy,Lyuba Titova ,Physics,LyubaTitova.png ,5400,550
+Materials and Manufacturing,Energy,Izabela Stroe,Physics,IzabelaStroe.png,6000,550
+Materials and Manufacturing,Energy,Eric Young ,Chemical Engineering,EricYoung.png ,4700,750
+Materials and Manufacturing,Energy,Andrew Teixeira ,Chemical Engineering,AndrewTeixeira.png ,4100,750
+Materials and Manufacturing,Energy,Aaron Deskins ,Chemical Engineering,AaronDeskins.png ,4700,550
+Health & Biotechnology,Digital Health (HDI),Emmanuel Agu,Computer Science,EmmanuelAgu.png,8000,4200
+Health & Biotechnology,Digital Health (HDI),Diane Strong,Foisie Business School,DianeStrong.png,9300,4200
+Health & Biotechnology,Digital Health (HDI),Bengisu Tulu,Foisie Business School,BengisuTulu.png,9900,4200
+Health & Biotechnology,Digital Health (HDI),Sousann Djamasbi,Foisie Business School,SousannDjamasbi.png,9300,4400
+Health & Biotechnology,Digital Health (HDI),Sharon Johnson,Foisie Business School,SharonJohnson.png,9900,4400
+Health & Biotechnology,Digital Health (HDI),Dmitry Korkin,Computer Science,DmitryKorkin.png,8600,4200
+Health & Biotechnology,Digital Health (HDI),Christopher Lambert,Chemical Engineering,ChristopherLambert.png,4100,4200
+Health & Biotechnology,Digital Health (HDI),Carolina Ruiz,Computer Science,CarolinaRuiz.png,8000,4400
+Health & Biotechnology,Healthcare Cyber Physical Systems,Greg Fischer,Mechanical Engineering,GregFischer.png,10600,4800
+Health & Biotechnology,Healthcare Cyber Physical Systems,Yihao Zheng,Mechanical Engineering,YihaoZheng.png,11200,4800
+Materials and Manufacturing,MPI,Brajendra Mishra,Mechanical Engineering,BrajendraMishra.png,10600,1250
+Materials and Manufacturing,MPI,Rick Sisson,Mechanical Engineering,RickSisson.png,11200,1250
+Materials and Manufacturing,Advanced Casting & Research Center,Brajendra Mishra,Mechanical Engineering,BrajendraMishra.png,10600,1800
+Materials and Manufacturing,Nano Materials,Nancy Burnham,Physics,NancyBurnham.png,5400,2400
+Materials and Manufacturing,Nano Materials,Pratap Rao ,Mechanical Engineering,PratapRao.png ,10600,2400
+Materials and Manufacturing,Nano Materials,Hal Walker,Civil & Environmental Engineering,HalWalker.png,11900,2400
+Materials and Manufacturing,Nano Materials,Jeannine Coburn,Biomedical Engineering,JeannineCoburn.png,2800,2400
+Materials and Manufacturing,Nano Materials,Carrick Eggleston,Civil & Environmental Engineering,CarrickEggleston.png,12500,2400
+Materials and Manufacturing,Nano Materials,Adam Powell,Mechanical Engineering,AdamPowell.png,11200,2400
+Health & Biotechnology,Neuroscience  &  Neuro- Engineering,Jean King,Biology & Biotechnology,JeanKing.png,2800,5400
+Health & Biotechnology,Neuroscience  &  Neuro- Engineering,Erin Solovey,Computer Science,ErinSolovey.png,2800,5400
+Health & Biotechnology,Neuroscience  &  Neuro- Engineering,Adam Lammert,Biomedical Engineering,AdamLammert.png,2800,5600
+Health & Biotechnology,Neuroscience  &  Neuro- Engineering,Benjamin Nephew,Biology & Biotechnology,BenjaminNephew.png,3400,5400
+Health & Biotechnology,Neuroscience  &  Neuro- Engineering,Angela C Incollingo Rodriguez,Social Science & Policy Studies,AngelaCIncollingoRodriguez.png,6700,5400
+Health & Biotechnology,Regenerative Medicine & Bio Group,George Pins,Biomedical Engineering,GeorgePins.png,2800,6000
+Materials and Manufacturing,Water,Natalie Farny,Biology & Biotechnology,NatalieFarny.png,2800,3000
+Materials and Manufacturing,Water,Mike Timko,Chemical Engineering,MikeTimko.png,4100,3000
+Materials and Manufacturing,Water,Pratap Rao ,Mechanical Engineering,PratapRao.png ,10600,3000
+Materials and Manufacturing,Water,Hal Walker,Civil & Environmental Engineering,HalWalker.png,11900,3000
+Smart World,Robotics,Jing Xiao,Robotics Engineering,JingXiao.png,13200,6700
+Smart World,Robotics,Zhi (Jane) Li,Robotics Engineering,ZhiLi.png,13200,6850
+Smart World,Robotics,Carlo Pinciroli,Robotics Engineering,CarloPinciroli.png,13800,6700
+Smart World,Robotics,Marko Popovic,Robotics Engineering,MarkoPopovic.png,13800,6850
+Smart World,Robotics,Jie Fu,Robotics Engineering,JieFu.png,13200,7000
+Smart World,Cybersecurity,Berk Sunar,Electrical & Computer Engineering,BerkSunar.png,14500,7550
+Smart World,Cybersecurity,Craig Shue,Computer Science,CraigShue.png,8600,7300
+Smart World,Cybersecurity,Patrick Scahumont,Electrical & Computer Engineering,PatrickScahumont.png,14500,7400
+Smart World,Cybersecurity,Andrew Clark,Electrical & Computer Engineering,AndrewClark.png,15100,7400
+Smart World,Cybersecurity,Jie Fu,Robotics Engineering,JieFu.png,13200,7250
+Smart World,Cybersecurity,Koksal Mus,Electrical & Computer Engineering,KoksalMus.png,14500,7250
+Smart World,Cybersecurity,Yarkin Doroz,Electrical & Computer Engineering,YarkinDoroz.png,15100,7250
+Smart World,Cybersecurity,Robert Walls,Computer Science,RobertWalls.png,8000,7500
+Smart World,Cybersecurity,Lorenzo DeCarli,Computer Science,LorenzoDeCarli.png,8000,7300
+Smart World,Cybersecurity,Randy Paffenroth,Mathematics,RandyPaffenroth.png,15800,7300
+Smart World,Intelligent Systems,Rick Brown,Electrical & Computer Engineering,RickBrown.png,14500,7850
+Smart World,Intelligent Systems,Randy Paffenroth,Mathematics,RandyPaffenroth.png,15800,7850
+Smart World,Autonomous Vehicles,Xinming Huang,Electrical & Computer Engineering,XinmingHuang.png,14500,8450
+Smart World,Autonomous Vehicles,Ziming Zhang,Electrical & Computer Engineering,ZimingZhang.png,14500,8600
+Smart World,Autonomous Vehicles,Alex Wyglinski,Electrical & Computer Engineering,AlexWyglinski.png,14500,8750
+Smart World,Autonomous Vehicles,Ragu Cowlagi,Mechanical Engineering,RaguCowlagi.png,10600,8450
+Smart World,Computational Molecular Modeling,N. Aaron Deskins,Chemical Engineering,AaronDeskins.png,4100,9050
+Smart World,Computational Molecular Modeling,Tony Dixon,Chemical Engineering,TonyDixon.png,4100,9200
+Smart World,Computational Molecular Modeling,Mike Timko,Chemical Engineering,MikeTimko.png,4100,9350
+Smart World,Systems Engineering,Shams Virani Bhada,Electrical & Computer Engineering,ShamsViraniBhada.png,14500,9650
+Smart World,Systems Engineering,Matthew Amissah,Electrical & Computer Engineering,MatthewAmissah.png,14500,9800
+Smart World,Smart Cities,Steven Van Dessel,Civil & Environmental Engineering,StevenVanDessel.png,12500,10300
+Smart World,Smart Cities,Shichao Liu,Civil & Environmental Engineering,ShichaoLiu.png,11900,10300
+Smart World,Smart Cities,Carrick Eggleston,Civil & Environmental Engineering,CarrickEggleston.png,11900,10500
+Smart World,Smart Environments,Sarah Strauss,Social Science & Policy Studies,SarahStrauss.png,6700,10900
+Smart World,Smart Environments,Shichao Liu,Civil & Environmental Engineering,ShichaoLiu.png,11900,10900
+Smart World,Smart Environments,Sousann Djamasbi,Foisie Business School,SousannDjamasbi.png,9300,10900
+Smart World,Learning Sciences,Neil Heffernan,Computer Science,NeilHeffernan.png,8000,11450
+Smart World,User Experience,Randy Paffenroth,Mathematics,RandyPaffenroth.png,15800,12100
+Smart World,User Experience,Sousann Djamasbi,Foisie Business School,SousannDjamasbi.png,9300,12100
+Smart World,Data Science,Elke Rundensteiner,Computer Science,ElkeRundensteiner.png,8000,12650
+Smart World,Data Science,Randy Paffenroth,Mathematics,RandyPaffenroth.png,15800,12650
+Smart World,Data Science,Yanhua Li,Computer Science,YanhuaLi.png,8600,12650
+Smart World,Data Science,Carolina Ruiz,Computer Science,CarolinaRuiz.png,8000,12850
+Smart World,Fire Protection,Albert Simeoni,Fire Protection Engineering,AlbertSimeoni.png,17700,13250
+Smart World,Fire Protection,James Urban,Fire Protection Engineering,JamesUrban.png,17100,13450
+Smart World,Fire Protection,Milosh Puchovsky,Fire Protection Engineering,MiloshPuchovsky.png,17100,13250
+Smart World,Fire Protection,Carlo Pinciroli,Robotics Engineering,CarloPinciroli.png,13200,13250
+Smart World,Fire Protection,Yan Wang,Mechanical Engineering,YanWang.png,10600,13450
+Smart World,Fire Protection,Cagdas Onal,Mechanical Engineering,CagdasOnal.png,10600,13250
+Smart World,Fire Protection,Jianyu Liang,Mechanical Engineering,JianyuLiang.png,11200,13450
+Smart World,Fire Protection,Kehinde Oyewole,Mechanical Engineering,KehindeOyewole.png,11200,13250
